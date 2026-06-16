@@ -1,0 +1,9 @@
+title,author,isbn,category,language,publication_year,total_copies,available_copies,description,cover_image_url
+The Kite Runner,Khaled Hosseini,9781594631931,fiction,english,2003,12,12,A story of friendship and redemption in Afghanistan.,https://example.com/kite_runner.jpg
+Panchatantra,Vishnu Sharma,9788172344795,education,hindi,200,8,8,Ancient Indian animal fables with moral lessons.,https://example.com/panchatantra.jpg
+Malgudi Days,R.K. Narayan,9780140237511,fiction,english,1943,10,10,Short stories set in the fictional town of Malgudi.,https://example.com/malgudi_days.jpg
+Chandamama,Various Authors,9788185215267,comics,kannada,1960,20,20,A classic collection of Kannada folk tales and comics.,https://example.com/chandamama.jpg
+The Jungle Book,Rudyard Kipling,9780141323046,fiction,english,1894,14,14,Adventures of Mowgli raised by wolves in the jungle.,https://example.com/jungle_book.jpg
+Enid Blyton's Adventure Series,Enid Blyton,9780141326528,comedy,english,1944,9,9,A set of fun children's adventure stories.,https://example.com/adventure_series.jpg
+Bharatha Samskruti,Kumaravyasa,9788174902002,education,kannada,1400,5,5,The classic Kannada retelling of the Mahabharata.,https://example.com/bharatha_samskruti.jpg
+Tenali Raman Stories,Various Authors,9788120711040,comedy,hindi,1500,7,7,Humorous tales of the clever court jester Tenali Raman.,https://example.com/tenali_raman.jpg
