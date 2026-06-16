@@ -117,7 +117,7 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-    default='mysql://umlnno2gebzzoz5d:B7xDQk3dV8Rho0KRmYWT@bcnddbthvlanlacevdns-mysql.services.clever-cloud.com:3306/bcnddbthvlanlacevdns')
+    default='dburl')
     
 }
 DATABASES['default']['ENGINE'] = 'django.db.backends.mysql'
