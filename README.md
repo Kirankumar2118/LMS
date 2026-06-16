@@ -231,22 +231,7 @@ DATABASE_URL=sqlite:///db.sqlite3
 - Check CORS settings in Django settings
 - Verify API base URL in [frontend/src/api/axiosInstance.js](frontend/src/api/axiosInstance.js)
 
-## Contributing
 
-1. Create a new branch: `git checkout -b feature/your-feature`
-2. Make your changes and commit: `git commit -m 'Add feature'`
-3. Push to the branch: `git push origin feature/your-feature`
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
-## Support
-
-For issues, questions, or suggestions, please open an issue on the project repository.
-
----
 
 **Last Updated:** June 2026
 #
